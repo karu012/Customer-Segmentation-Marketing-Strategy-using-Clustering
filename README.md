@@ -29,6 +29,7 @@ Campaign Response: Number of accepted campaigns, complaints
 Behavior: Recency, Date of enrollment
 
 4.Key Steps Performed
+
 4.1 Data Preprocessing
 
 Removed null values and duplicates
