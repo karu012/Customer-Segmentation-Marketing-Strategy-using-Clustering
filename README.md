@@ -53,6 +53,7 @@ Heatmaps (correlation)
 Pairplots to understand feature distributions
 
 4.3 Feature Engineering
+
 Derived new features like age, total spending
 
 Applied one-hot encoding for categorical variables
@@ -60,9 +61,11 @@ Applied one-hot encoding for categorical variables
 Standardized features before clustering
 
 4.4 Dimensionality Reduction
+
 Used PCA to reduce dimensionality and visualize customer clusters in 2D
 
 4.5 Customer Segmentation
+
 Applied K-Means Clustering to group customers
 
 Evaluated optimal k using Elbow Method
