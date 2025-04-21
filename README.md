@@ -1,4 +1,5 @@
 1.Project Overview
+
 The objective was to analyze customer data and identify distinct segments using unsupervised learning, which can help tailor marketing efforts more effectively and increase customer engagement and conversions.
 
 2.Tech Stack
@@ -16,6 +17,7 @@ Dimensionality Reduction: PCA (Principal Component Analysis)
 3.Dataset Attributes
 
 The dataset includes customer information over 2 years of marketing campaigns and spending history:
+
 Demographics: Age, Education, Marital Status, Income, etc.
 
 Household: Kids at home, Teens at home
