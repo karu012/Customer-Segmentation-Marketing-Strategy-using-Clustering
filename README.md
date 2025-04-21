@@ -48,7 +48,7 @@ Applied K-Means Clustering to group customers
 Evaluated optimal k using Elbow Method
 Applied Agglomerative Hierarchical Clustering and visualized with dendrograms
 
-5. Insights & Outcome
+5.Insights & Outcome
    
 Identified distinct customer groups (e.g., high spenders vs low spenders, young families, etc.)
 Delivered actionable insights to improve campaign targeting
